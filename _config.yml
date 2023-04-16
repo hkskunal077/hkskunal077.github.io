@@ -9,7 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-hacker
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-colors:
-  crimson: '#900C3F'
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
