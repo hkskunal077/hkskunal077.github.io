@@ -1,16 +1,24 @@
 ## Two-Column Section
 
-| Column 1 | Column 2 |
+| ## Something that I like to do or something random 🤷‍♂️ | This will be part of that random thingy |
 | --- | --- |
 | This is the content of column 1 | This is the content of column 2 |
 | This is another line of content for column 1 | This is another line of content for column 2 |
 
 
+```python
+# Define a variable
+name = "John"
+# Define a function
+def greet(name):
+    print(f"Hello, {name}!")
+# Call the function with the variable as the argument
+greet(name)
+```
+
 
 ## Something that I like to do or something random 🤷‍♂️
-
----
- 	
+---	
 ### Deep NLP for hate speech detection
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
