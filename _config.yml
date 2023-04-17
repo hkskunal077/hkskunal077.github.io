@@ -1,12 +1,13 @@
-title: Matt Chapman # your name (or website title) here
+title: Kunal Sharma # your name (or website title) here
 logo: "/images/playing_drums.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  xyz
+  Hi Everyone, I am Kunal working in Data Analytical and Technology Team @ Amazon, a Mathematics and Computing Graduate from Delhi College of Engineering (DCE or DTU).
   <br><br>
-  abc
+  I like pretty much everything that has Quant in it, learning Quantitative Analysis these days, Data Science is engaging as well. Off the tech space, I love playing Football, Video Games, 
+  Cinephile and Gyming.
   <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kunal-sharma-469962166/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 - your Google Analytics tracking ID here
