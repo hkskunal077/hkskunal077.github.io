@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<style>
-		body {
-			background-image: url(https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cca39fda-ec89-491e-9dd1-e2d6c8514297/dickieadams-a.jpg);
-			background-size: cover;
-		}
-	</style>
-</head>
-<body>
-    
 ## Two-Column Section
 
 | ## Something that I like to do or something random 🤷‍♂️ | This will be part of that random thingy |
@@ -59,5 +47,3 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Optimising code with multiprocessing](#)
 
     
-</body>
-</html>
